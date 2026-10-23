@@ -215,7 +215,6 @@ import { ToastService } from '../../services/toast.service';
                 </p>
               </div>
             </div>
-          }
 
           <!-- Modal Footer -->
           <div class="modal-footer">
